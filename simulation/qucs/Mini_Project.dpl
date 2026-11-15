@@ -1,0 +1,31 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=445,382,2442,2118,0.620921,0,0>
+  <Grid=10,10,0>
+  <DataSet=Mini_Project.dat>
+  <DataDisplay=Mini_Project.sch>
+  <OpenDisplay=1>
+  <Script=Mini_Project.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 670 1946 1471 708 3 #c0c0c0 1 00 1 -0.2 0.02 0.2 1 -11 0.5 -1.5 1 -1 0.2 1 315 0 225 "" "" "">
+	<"Gain" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 710 1129 1469 739 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Vod" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
